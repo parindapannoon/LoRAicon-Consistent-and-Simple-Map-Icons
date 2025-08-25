@@ -1,4 +1,4 @@
-LORAicon – Consistent and Simple Map Icons: Addressing the Challenges for AI-Based Generation
+**LORAicon – Consistent and Simple Map Icons: Addressing the Challenges for AI-Based Generation**
 
 For LoRA checkpoint model can be dowloaded from this drive https://drive.google.com/drive/folders/1OT7lGlRBe5yqtyGjvLPPbSiAiMhvLU07?usp=sharing
 
