@@ -1,6 +1,6 @@
 **<h2>LORAicon – Consistent and Simple Map Icons: Addressing the Challenges for AI-Based Generation</h2>**
 
-For LoRA checkpoint model can be dowloaded from this drive https://drive.google.com/drive/folders/1OT7lGlRBe5yqtyGjvLPPbSiAiMhvLU07?usp=sharing
+For our LoRAicon output model can be dowloaded from this drive https://drive.google.com/drive/folders/1OT7lGlRBe5yqtyGjvLPPbSiAiMhvLU07?usp=sharing
 
 **<h3>Source</h3>**
 * Stable Diffusion XL 1.0 Base model (https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors)
