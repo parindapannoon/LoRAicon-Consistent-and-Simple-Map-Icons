@@ -9,5 +9,5 @@ Kohya-ss GUI Portable version for training LoRA and setting hyperparameters by d
 Fooocus https://github.com/lllyasviel/Fooocus.git
 
 **Base model**
-
+_____________________________________________
 Stable Diffusion XL 1.0 Base (https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors)
