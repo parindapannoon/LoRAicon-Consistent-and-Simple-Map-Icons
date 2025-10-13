@@ -17,7 +17,7 @@ For our LoRAicon output model can be dowloaded from this drive https://drive.goo
  5. Start training LoRA
   **<h4>Generating icons</h4>**
  1. Open Fooocus directly through the attached .ipynb or command line cd < yourFooocusfolder > and _!python entry_with_update.py --share --always-high-vram_
- 2. Add file _sdxl_base_1.0.safetensors_ as a base model input, and file _testlr4ep2.safetensors_ LoRA input
+ 2. Add file _sdxl_base_1.0.safetensors_ as a base model input, and file _testlr4ep2.safetensors_ LoRA input. Make sure that under path Fooocus\models\loras contains the LoRA model
  3. Add prompt for creating your prefer map icons.
 
 **<h3>Acknowledgement</h3>**
