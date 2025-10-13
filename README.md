@@ -9,14 +9,13 @@ For our LoRAicon output model can be dowloaded from this drive https://drive.goo
 
 * Fooocus GUI https://github.com/lllyasviel/Fooocus.git
 
-**<h3>How to run</h3>**
-1. 
-2. 
-3.
-
-4. Open Fooocus directly through the attached .ipynb or command line cd < yourFooocusfolder > and _!python entry_with_update.py --share --always-high-vram_
-5. Add file _sdxl_base_1.0.safetensors_ as a base model input, and file _testlr4ep2.safetensors_ LoRA input
-6. Add prompt for creating your prefer map icons
+  **<h4>Training map icons from our config</h4>**
+1. Install Kohya-ss GUI then add config file _config_lora-lr4ep2nd256.toml_ on config
+2. Add icon images and assign BLIP captions
+  **<h4>Generating icons</h4>**
+1. Open Fooocus directly through the attached .ipynb or command line cd < yourFooocusfolder > and _!python entry_with_update.py --share --always-high-vram_
+2. Add file _sdxl_base_1.0.safetensors_ as a base model input, and file _testlr4ep2.safetensors_ LoRA input
+3. Add prompt for creating your prefer map icons.
 
 **<h3>Acknowledgement</h3>**
 This research was funded in part by a grant from Artificial Intelligence Privatstiftung Austria.
