@@ -14,7 +14,7 @@ For our LoRAicon output model can be dowloaded from this drive https://drive.goo
 2. 
 3.
 
-4. open Fooocus directly through the attached .ipynb or command line cd <yourFooocusfolder> and _!python entry_with_update.py --share --always-high-vram_
+4. open Fooocus directly through the attached .ipynb or command line cd < yourFooocusfolder > and _!python entry_with_update.py --share --always-high-vram_
 
 **<h3>Acknowledgement</h3>**
 This research was funded in part by a grant from Artificial Intelligence Privatstiftung Austria.
