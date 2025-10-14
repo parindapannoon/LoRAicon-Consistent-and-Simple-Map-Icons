@@ -2,6 +2,16 @@
 
 For our LoRAicon output model can be dowloaded from this drive https://drive.google.com/drive/folders/1OT7lGlRBe5yqtyGjvLPPbSiAiMhvLU07?usp=sharing
 
+
+<img width="284" height="243" alt="Cartoicon3" src="https://github.com/user-attachments/assets/41b7539e-c802-4c70-b908-7c345203ff79" />
+
+<img width="283" height="245" alt="Cartoicon1" src="https://github.com/user-attachments/assets/eb9ee3d7-987b-44fb-8760-a9d908209db7" />
+
+<img width="283" height="243" alt="Cartoicon2" src="https://github.com/user-attachments/assets/bd02a828-0732-462a-ab93-c9180fcbe8b5" />
+
+
+
+
 **<h3>Source</h3>**
 * Stable Diffusion XL 1.0 Base model (https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors)
 
